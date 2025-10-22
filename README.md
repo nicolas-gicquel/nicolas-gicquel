@@ -3,7 +3,7 @@
 ### <div align="center">I am Nicolas, a web development trainer🎓 since 2020 🚀</div>  
   
 
-- 🔭 I’m currently working on [Arinfo](https://arinfo.fr/r)  
+- 🔭 I’m currently working on [Campus Numeria]([https://arinfo.fr/r](https://www.ac-poitiers.fr/campusnumeria))  
   
 
 <br/>  
