@@ -1,6 +1,6 @@
 
 
-### <div align="center">I am Nicolas, a web development trainer🎓 since 2020 🚀</div>  
+### <div align="center">I am Nicolas, a digital mediator since 2025 🚀</div>  
   
 
 - 🔭 I’m currently working on [Campus Numeria]([https://arinfo.fr/r](https://www.ac-poitiers.fr/campusnumeria))  
